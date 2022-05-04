@@ -25,32 +25,37 @@ def stack_tester(ops):
         s = Stack()
 
         for (op, arg) in ops:
-            if op == 'Stack':
+            if op == "Stack":
                 s = Stack()
-            elif op == 'push':
+            elif op == "push":
                 s.push(arg)
-            elif op == 'pop':
+            elif op == "pop":
                 result = s.pop()
                 if result != arg:
-                    raise TestFailure('Pop: expected ' + str(arg) + ', got ' +
-                                      str(result))
-            elif op == 'max':
+                    raise TestFailure(
+                        "Pop: expected " + str(arg) + ", got " + str(result)
+                    )
+            elif op == "max":
                 result = s.max()
                 if result != arg:
-                    raise TestFailure('Max: expected ' + str(arg) + ', got ' +
-                                      str(result))
-            elif op == 'empty':
+                    raise TestFailure(
+                        "Max: expected " + str(arg) + ", got " + str(result)
+                    )
+            elif op == "empty":
                 result = int(s.empty())
                 if result != arg:
-                    raise TestFailure('Empty: expected ' + str(arg) +
-                                      ', got ' + str(result))
+                    raise TestFailure(
+                        "Empty: expected " + str(arg) + ", got " + str(result)
+                    )
             else:
-                raise RuntimeError('Unsupported stack operation: ' + op)
+                raise RuntimeError("Unsupported stack operation: " + op)
     except IndexError:
-        raise TestFailure('Unexpected IndexError exception')
+        raise TestFailure("Unexpected IndexError exception")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     exit(
-        generic_test.generic_test_main('stack_with_max.py',
-                                       'stack_with_max.tsv', stack_tester))
+        generic_test.generic_test_main(
+            "stack_with_max.py", "stack_with_max.tsv", stack_tester
+        )
+    )
