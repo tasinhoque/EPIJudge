@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def minimum_messiness(words: List[str], line_length: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

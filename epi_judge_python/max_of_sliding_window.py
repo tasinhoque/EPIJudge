@@ -12,7 +12,7 @@ class TrafficElement:
 
 
 def calculate_traffic_volumes(A: List[TrafficElement], w: int) -> List[TrafficElement]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

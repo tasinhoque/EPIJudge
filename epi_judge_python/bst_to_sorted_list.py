@@ -8,7 +8,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def bst_to_doubly_linked_list(tree: BstNode) -> Optional[BstNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

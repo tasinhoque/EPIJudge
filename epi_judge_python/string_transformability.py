@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def transform_string(D: Set[str], s: str, t: str) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

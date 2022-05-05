@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def fill_surrounded_regions(board: List[List[str]]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

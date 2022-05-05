@@ -8,7 +8,7 @@ MinMax = collections.namedtuple("MinMax", ("smallest", "largest"))
 
 
 def find_min_max(A: List[int]) -> MinMax:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return MinMax(0, 0)
 
 

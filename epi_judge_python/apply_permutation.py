@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def apply_permutation(perm: List[int], A: List[int]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

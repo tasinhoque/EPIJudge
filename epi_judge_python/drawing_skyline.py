@@ -9,7 +9,7 @@ Rect = collections.namedtuple("Rect", ("left", "right", "height"))
 
 
 def compute_skyline(buildings: List[Rect]) -> List[Rect]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

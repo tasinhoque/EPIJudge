@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def snake_string(s: str) -> str:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return ""
 
 

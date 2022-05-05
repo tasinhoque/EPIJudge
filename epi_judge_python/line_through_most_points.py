@@ -9,7 +9,7 @@ Point = collections.namedtuple("Point", ("x", "y"))
 
 
 def find_line_with_most_points(points: List[Point]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

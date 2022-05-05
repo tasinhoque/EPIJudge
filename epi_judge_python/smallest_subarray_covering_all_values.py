@@ -11,7 +11,7 @@ Subarray = collections.namedtuple("Subarray", ("start", "end"))
 def find_smallest_sequentially_covering_subset(
     paragraph: List[str], keywords: List[str]
 ) -> Subarray:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return Subarray(0, 0)
 
 

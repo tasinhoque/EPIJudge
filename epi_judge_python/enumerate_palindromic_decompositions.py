@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def palindrome_decompositions(text: str) -> List[List[str]]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

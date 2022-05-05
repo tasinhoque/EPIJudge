@@ -12,7 +12,7 @@ HighwaySection = collections.namedtuple("HighwaySection", ("x", "y", "distance")
 def find_best_proposals(
     H: List[HighwaySection], P: List[HighwaySection], n: int
 ) -> HighwaySection:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return HighwaySection(0, 0, 0)
 
 

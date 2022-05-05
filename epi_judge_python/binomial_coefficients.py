@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def compute_binomial_coefficient(n: int, k: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

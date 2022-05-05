@@ -3,7 +3,7 @@ from test_framework import generic_test
 
 
 def sum_root_to_leaf(tree: BinaryTreeNode) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

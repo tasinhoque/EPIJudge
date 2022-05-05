@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def merge_two_bsts(A: BstNode, B: BstNode) -> Optional[BstNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

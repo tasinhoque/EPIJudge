@@ -16,7 +16,7 @@ class Team:
     # Checks if team0 can be placed in front of team1.
     @staticmethod
     def valid_placement_exists(team0: "Team", team1: "Team") -> bool:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return True
 
 

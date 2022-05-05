@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 # Given n, return all primes up to and including n.
 def generate_primes(n: int) -> List[int]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

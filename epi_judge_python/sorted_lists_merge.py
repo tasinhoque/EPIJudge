@@ -7,7 +7,7 @@ from test_framework import generic_test
 def merge_two_sorted_lists(
     L1: Optional[ListNode], L2: Optional[ListNode]
 ) -> Optional[ListNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

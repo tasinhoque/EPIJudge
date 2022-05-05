@@ -8,7 +8,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def list_pivoting(l: ListNode, x: int) -> Optional[ListNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

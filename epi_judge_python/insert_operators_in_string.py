@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def expression_synthesis(digits: List[int], target: int) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

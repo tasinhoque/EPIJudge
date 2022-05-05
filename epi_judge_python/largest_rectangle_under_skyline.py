@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def calculate_largest_rectangle(heights: List[int]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

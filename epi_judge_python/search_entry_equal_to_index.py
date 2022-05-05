@@ -7,7 +7,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def search_entry_equal_to_its_index(A: List[int]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

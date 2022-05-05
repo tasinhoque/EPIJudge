@@ -4,15 +4,15 @@ from test_framework.test_failure import TestFailure
 
 class QueueWithMax:
     def enqueue(self, x: int) -> None:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return
 
     def dequeue(self) -> int:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return 0
 
     def max(self) -> int:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return 0
 
 

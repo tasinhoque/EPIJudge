@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def shortest_equivalent_path(path: str) -> str:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return ""
 
 

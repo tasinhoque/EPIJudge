@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def get_height(cases: int, drops: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def merge_two_sorted_arrays(A: List[int], m: int, B: List[int], n: int) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

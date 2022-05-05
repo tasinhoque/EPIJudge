@@ -3,7 +3,7 @@ from test_framework import generic_test
 
 
 def is_balanced_binary_tree(tree: BinaryTreeNode) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

@@ -9,7 +9,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def lca(node0: BinaryTreeNode, node1: BinaryTreeNode) -> Optional[BinaryTreeNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

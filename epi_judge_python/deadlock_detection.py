@@ -11,7 +11,7 @@ class GraphVertex:
 
 
 def is_deadlocked(graph: List[GraphVertex]) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

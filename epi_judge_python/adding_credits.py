@@ -4,23 +4,23 @@ from test_framework.test_failure import TestFailure
 
 class ClientsCreditsInfo:
     def insert(self, client_id: str, c: int) -> None:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return
 
     def remove(self, client_id: str) -> bool:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return True
 
     def lookup(self, client_id: str) -> int:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return 0
 
     def add_all(self, C: int) -> None:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return
 
     def max(self) -> str:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return ""
 
 

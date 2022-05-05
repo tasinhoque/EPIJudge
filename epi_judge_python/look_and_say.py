@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def look_and_say(n: int) -> str:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return ""
 
 

@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def search_bst(tree: BstNode, key: int) -> Optional[BstNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

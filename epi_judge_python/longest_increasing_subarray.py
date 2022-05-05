@@ -7,7 +7,7 @@ Subarray = collections.namedtuple("Subarray", ("start", "end"))
 
 
 def find_longest_increasing_subarray(A: List[int]) -> Subarray:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return Subarray(0, 0)
 
 

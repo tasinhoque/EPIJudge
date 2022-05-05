@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def max_rectangle_submatrix(A: List[List[bool]]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

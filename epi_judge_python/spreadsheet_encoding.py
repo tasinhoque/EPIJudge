@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def ss_decode_col_id(col: str) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

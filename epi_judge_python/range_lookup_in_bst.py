@@ -8,7 +8,7 @@ Interval = collections.namedtuple("Interval", ("left", "right"))
 
 
 def range_lookup_in_bst(tree: BstNode, interval: Interval) -> List[int]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

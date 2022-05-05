@@ -15,7 +15,7 @@ class BinaryTreeNode:
 
 
 def find_kth_node_binary_tree(tree: BinaryTreeNode, k: int) -> Optional[BinaryTreeNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

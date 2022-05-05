@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def number_of_ways_to_top(top: int, maximum_step: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

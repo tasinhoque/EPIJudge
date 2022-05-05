@@ -12,7 +12,7 @@ Subarray = collections.namedtuple("Subarray", ("start", "end"))
 def find_smallest_subarray_covering_set(
     paragraph: List[str], keywords: Set[str]
 ) -> Subarray:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return Subarray(0, 0)
 
 

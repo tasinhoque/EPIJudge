@@ -6,7 +6,7 @@ from test_framework import generic_test
 def num_combinations_for_final_score(
     final_score: int, individual_play_scores: List[int]
 ) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def find_all_substrings(s: str, words: List[str]) -> List[int]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

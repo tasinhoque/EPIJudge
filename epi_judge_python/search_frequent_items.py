@@ -5,7 +5,7 @@ from test_framework import generic_test, test_utils
 
 # Finds the candidates which may occur > n / k times.
 def search_frequent_items(k: int, stream: Iterator[str]) -> List[str]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

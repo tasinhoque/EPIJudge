@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def justify_text(words: List[str], L: int) -> List[str]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

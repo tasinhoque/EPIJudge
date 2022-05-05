@@ -10,7 +10,7 @@ Event = collections.namedtuple("Event", ("start", "finish"))
 
 
 def find_max_simultaneous_events(A: List[Event]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

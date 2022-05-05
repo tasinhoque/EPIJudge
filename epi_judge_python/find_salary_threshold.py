@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def find_salary_cap(target_payroll: int, current_salaries: List[int]) -> float:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0.0
 
 

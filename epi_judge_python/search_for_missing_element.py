@@ -10,7 +10,7 @@ DuplicateAndMissing = collections.namedtuple(
 
 
 def find_duplicate_missing(A: List[int]) -> DuplicateAndMissing:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return DuplicateAndMissing(0, 0)
 
 

@@ -12,7 +12,7 @@ class GraphVertex:
 
 
 def clone_graph(graph: GraphVertex) -> GraphVertex:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return GraphVertex(0)
 
 

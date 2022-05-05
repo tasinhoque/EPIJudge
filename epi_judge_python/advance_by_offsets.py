@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def can_reach_end(A: List[int]) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

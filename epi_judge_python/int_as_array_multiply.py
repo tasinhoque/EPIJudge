@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def multiply(num1: List[int], num2: List[int]) -> List[int]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

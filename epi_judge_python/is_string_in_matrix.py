@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def is_pattern_contained_in_grid(grid: List[List[int]], pattern: List[int]) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def generate_pascal_triangle(n: int) -> List[List[int]]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

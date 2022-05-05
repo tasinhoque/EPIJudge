@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def find_kth_in_two_sorted_arrays(A: List[int], B: List[int], k: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

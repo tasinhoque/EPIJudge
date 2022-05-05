@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def is_letter_constructible_from_magazine(letter_text: str, magazine_text: str) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

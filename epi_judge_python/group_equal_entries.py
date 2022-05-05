@@ -10,7 +10,7 @@ Person = collections.namedtuple("Person", ("age", "name"))
 
 
 def group_by_age(people: List[Person]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

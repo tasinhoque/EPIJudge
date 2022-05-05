@@ -11,7 +11,7 @@ Interval = collections.namedtuple("Interval", ("left", "right"))
 
 
 def union_of_intervals(intervals: List[Interval]) -> List[Interval]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

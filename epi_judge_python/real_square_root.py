@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def square_root(x: float) -> float:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0.0
 
 

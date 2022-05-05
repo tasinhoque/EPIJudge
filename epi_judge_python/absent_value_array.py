@@ -5,7 +5,7 @@ from test_framework.test_failure import TestFailure
 
 
 def find_missing_element(stream: Iterator[int]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

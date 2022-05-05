@@ -8,7 +8,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def copy_postings_list(L: PostingListNode) -> Optional[PostingListNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

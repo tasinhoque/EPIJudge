@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def get_valid_ip_address(s: str) -> List[str]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

@@ -2,7 +2,7 @@ from test_framework import generic_test
 
 
 def test_collatz_conjecture(n: int) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return False
 
 

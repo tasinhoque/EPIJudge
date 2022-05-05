@@ -4,7 +4,7 @@ from test_framework import generic_test, test_utils
 
 
 def generate_balanced_parentheses(num_pairs: int) -> List[str]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

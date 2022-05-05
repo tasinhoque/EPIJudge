@@ -13,7 +13,7 @@ class BinaryTreeNode:
 
 
 def construct_right_sibling(tree: BinaryTreeNode) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

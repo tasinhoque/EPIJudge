@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 # Check if a partially filled matrix has any conflicts.
 def is_valid_sudoku(partial_assignment: List[List[int]]) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

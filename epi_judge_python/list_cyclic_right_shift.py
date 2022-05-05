@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def cyclically_right_shift_list(L: ListNode, k: int) -> Optional[ListNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

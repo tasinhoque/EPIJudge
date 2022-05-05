@@ -7,7 +7,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def decompose_into_dictionary_words(domain: str, dictionary: Set[str]) -> List[str]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

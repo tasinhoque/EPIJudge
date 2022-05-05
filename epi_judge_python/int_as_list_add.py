@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def add_two_numbers(L1: ListNode, L2: ListNode) -> Optional[ListNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

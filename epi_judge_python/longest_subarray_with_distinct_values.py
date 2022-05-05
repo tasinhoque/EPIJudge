@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def longest_subarray_with_distinct_entries(A: List[int]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

@@ -12,7 +12,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def random_sampling(k: int, A: List[int]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

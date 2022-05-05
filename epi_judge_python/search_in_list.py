@@ -3,7 +3,7 @@ from test_framework import generic_test
 
 
 def search_list(L: ListNode, key: int) -> ListNode:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return ListNode()
 
 

@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def find_closest_elements_in_sorted_arrays(sorted_arrays: List[List[int]]) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

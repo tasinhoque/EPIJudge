@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def rook_attack(A: List[List[int]]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

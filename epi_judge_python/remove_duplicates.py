@@ -18,7 +18,7 @@ class Name:
 
 
 def eliminate_duplicate(A: List[Name]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

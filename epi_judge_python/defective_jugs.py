@@ -9,7 +9,7 @@ Jug = collections.namedtuple("Jug", ("low", "high"))
 
 
 def check_feasible(jugs: List[Jug], L: int, H: int) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

@@ -12,7 +12,7 @@ from test_framework.test_utils import enable_executor_hook
 
 
 def compute_random_permutation(n: int) -> List[int]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

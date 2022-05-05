@@ -14,7 +14,7 @@ def zero_one_random():
 
 
 def uniform_random(lower_bound: int, upper_bound: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def find_longest_subarray_less_equal_k(A: List[int], k: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

@@ -12,7 +12,7 @@ Interval = collections.namedtuple("Interval", ("left", "right"))
 def add_interval(
     disjoint_intervals: List[Interval], new_interval: Interval
 ) -> List[Interval]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return []
 
 

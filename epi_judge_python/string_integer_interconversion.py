@@ -3,12 +3,12 @@ from test_framework.test_failure import TestFailure
 
 
 def int_to_string(x: int) -> str:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return "0"
 
 
 def string_to_int(s: str) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

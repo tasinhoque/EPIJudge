@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def zipping_linked_list(L: ListNode) -> Optional[ListNode]:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return None
 
 

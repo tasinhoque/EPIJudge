@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def has_three_sum(A: List[int], t: int) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 

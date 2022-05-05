@@ -4,19 +4,19 @@ from test_framework.test_failure import TestFailure
 
 class Stack:
     def empty(self) -> bool:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return True
 
     def max(self) -> int:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return 0
 
     def pop(self) -> int:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return 0
 
     def push(self, x: int) -> None:
-        # TODO - you fill in here.
+        # TODO you fill in here.
         return
 
 

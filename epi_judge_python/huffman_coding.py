@@ -9,7 +9,7 @@ CharWithFrequency = collections.namedtuple("CharWithFrequency", ("c", "freq"))
 
 
 def huffman_encoding(symbols: List[CharWithFrequency]) -> float:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0.0
 
 

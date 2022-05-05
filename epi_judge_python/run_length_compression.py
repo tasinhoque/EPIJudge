@@ -3,12 +3,12 @@ from test_framework.test_failure import TestFailure
 
 
 def decoding(s: str) -> str:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return ""
 
 
 def encoding(s: str) -> str:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return ""
 
 

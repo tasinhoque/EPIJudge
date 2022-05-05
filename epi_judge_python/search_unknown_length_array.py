@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def binary_search_unknown_length(A: List[int], k: int) -> int:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return 0
 
 

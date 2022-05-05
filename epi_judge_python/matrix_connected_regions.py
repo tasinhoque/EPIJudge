@@ -4,7 +4,7 @@ from test_framework import generic_test
 
 
 def flip_color(x: int, y: int, image: List[List[bool]]) -> None:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return
 
 

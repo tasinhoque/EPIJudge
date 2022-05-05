@@ -12,7 +12,7 @@ class GraphVertex:
 
 
 def is_any_placement_feasible(graph: List[GraphVertex]) -> bool:
-    # TODO - you fill in here.
+    # TODO you fill in here.
     return True
 
 
